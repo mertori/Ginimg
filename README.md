@@ -1,6 +1,6 @@
-# Image Toolkit
+# GiniMG - Gini IMG 
 
-**Image Toolkit** is a local, privacy-first image compressor, converter, batch processor, and resizer built with Python and Pillow.
+**GiniMG** is a local, privacy-first image compressor, converter, batch processor, and resizer built with Python and Pillow.
 
 It is designed to work on **Termux/Android, Windows, Linux, macOS**, and other platforms with a supported Python installation.
 
@@ -54,7 +54,7 @@ After downloading `image-toolkit-final.zip`, extract it.
 You should have:
 
 ```text
-image-toolkit/
+Ginimg/
 ├── image_tool.py
 ├── image_tool/
 ├── input/
